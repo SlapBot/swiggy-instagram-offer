@@ -14,11 +14,11 @@ Best thing about it is that the polling part is done without any login (So you c
 
 Here are some of the screenshots of the script:
 
-![screenshot-1](screenshots/Screenshot from 2019-08-21 12-33-29.png)
+![screenshot-1](https://github.com/SlapBot/swiggy-instagram-offer/blob/master/screenshots/Screenshot%20from%202019-08-21%2012-33-29.png?raw=true)
 
-![screenshot-2](screenshots/Screenshot from 2019-08-21 12-45-21.png)
+![screenshot-2](https://github.com/SlapBot/swiggy-instagram-offer/blob/master/screenshots/Screenshot%20from%202019-08-21%2012-45-21.png?raw=true)
 
-![screenshot-3](screenshots/Screenshot from 2019-08-21 13-00-45.png)
+![screenshot-3](https://github.com/SlapBot/swiggy-instagram-offer/blob/master/screenshots/Screenshot%20from%202019-08-21%2013-00-45.png?raw=true)
 
 ## Installation
 
