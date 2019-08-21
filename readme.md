@@ -1,5 +1,14 @@
 # Swiggy Instagram Offer
 
+- [About](#about)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Potential Re-uses](#potential-reuses)
+
+<hr>
+
+<a name="about">
+
 ## About
 
 Swiggy launched an instagram campaign for their product's anniversary where the first person to comment on their post with "#HBDSwiggy" would win Amazon voucher upto Rs.10,000.
@@ -20,6 +29,10 @@ Here are some of the screenshots of the script:
 
 ![screenshot-3](https://github.com/SlapBot/swiggy-instagram-offer/blob/master/screenshots/Screenshot%20from%202019-08-21%2013-00-45.png?raw=true)
 
+<hr>
+
+<a name="installation">
+
 ## Installation
 
 1. `git clone https://github.com/slapbot/swiggy-instagram-offer`
@@ -28,11 +41,18 @@ Here are some of the screenshots of the script:
 4. `source swiggy-instagram-offer-env/bin/activate`
 5. `pip install -r requirements.txt`
 
+<hr>
+
+<a name="usage">
 
 ## Usage
 
 1. Add in your username and password in `job_executor.py`
 2. Run `python test.py`
+
+<hr>
+
+<a name="potential-reuses">
 
 ## Potential Re-uses
 
