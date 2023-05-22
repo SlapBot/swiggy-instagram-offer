@@ -5,7 +5,7 @@ InstagramAPI==1.0.2
 moviepy==0.2.3.2
 numpy==1.17.0
 Pillow==6.1.0
-requests==2.20.0
+requests==2.31.0
 requests-toolbelt==0.7.0
 soupsieve==1.9.3
 tqdm==4.11.2
